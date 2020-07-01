@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nk2UbNf4aplhtSplD9o5MefDbm0X3HSouRiD+O+AxUx7mVjjycLHC07e3L+Z2ZbP+pqtJO25H0Oui6+q7aOLFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dper\\Desktop\\LinkedIn\\Azure DevOps\\Building Deployable Image\\ContainerWebApp\\ContainerWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dper\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\dper\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\dper\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
